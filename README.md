@@ -1,4 +1,14 @@
 # Algorithms
-Top 67 leetcode (easy, meduim and hard) questions that follow the [14 algo patterns](https://hackernoon.com/14-patterns-to-ace-any-coding-interview-question-c5bb3357f6ed) to pass multiple technical interviews with top tech companies (college edition) with real questions from apple, microsoft, twitter, fb...
+Top 67 leetcode (easy, meduim and hard) questions to pass multiple technical interviews with top tech companies (college edition) with real questions from apple, microsoft, twitter, fb...
+- [x] Sliding Window
+- [x] Two Pointers/Iterators
+- [x] Fast and Slow Pointers
+- [x] Merge Intervals
+- [x] Cyclic Sort
+- [x] In-place memory
+- [x] BFS/DFS
+- [x] Top K Elements
+- [x] Topological Sort
+- [ ] Gallo24 Sort
 
 Minimum amount of leetcode questions to get you into paradise 🌴🍹
