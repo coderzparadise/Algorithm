@@ -1,4 +1,4 @@
 # Algorithms
-Top 67 leetcode (easy, meduim and hard) questions made up of 14 patterns to pass multiple technical interviews with top tech companies (college edition) with real questions from apple, microsoft, twitter, fb...
+Top 67 leetcode (easy, meduim and hard) questions made of [14 patterns](https://hackernoon.com/14-patterns-to-ace-any-coding-interview-question-c5bb3357f6ed) to pass multiple technical interviews with top tech companies (college edition) with real questions from apple, microsoft, twitter, fb...
 
-Minimum amount of leetcode to get you into paradise 🌴🍹
+Minimum amount of leetcode questions to get you into paradise 🌴🍹
