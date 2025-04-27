@@ -4,6 +4,6 @@ Created on Sat Sep 28 11:17:04 2021
 
 @author: coderzparadise
 
-Fastest time to implement code and explain Data Structure: Graph
+Fastest time to implement code and explain:
     -X minutes
 """
