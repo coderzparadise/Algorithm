@@ -1,10 +1,10 @@
 # Leetcode (Easy, Medium, Hard)
 
-### Section 1
-29 questions
+### Code
+solved questions with solutions
 
-### Section 2
-31 questions
+### Questions
+3 sections
 
-### Section 3
-7 questions
+### Practice
+Area to code after forking/cloning repo
