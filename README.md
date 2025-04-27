@@ -5,9 +5,7 @@ Top 67 leetcode (easy, meduim and hard) questions to pass multiple technical int
 - [x] Cyclic Sort
 - [x] Fast and Slow Pointers
 - [x] In-place memory
-- [x] Leetcode Easy
-- [x] Leetcode Medium
-- [x] Leetcode Hard
+- [x] Leetcode (Easy, Medium, Hard)
 - [x] Merge Intervals
 - [x] Sliding Window
 - [x] Top K Elements
