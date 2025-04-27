@@ -1,4 +1,4 @@
 # Algorithms
-Top 67 leetcode (easy, meduim and hard) questions made of 14 patterns to pass technical interview.
+Top 67 leetcode (easy, meduim and hard) questions made up of 14 patterns to pass multiple technical interviews with top tech companies (college edition).
 
-Real questions from google, microsoft, twitter, fb...
+Real questions from apple, microsoft, twitter, fb...
