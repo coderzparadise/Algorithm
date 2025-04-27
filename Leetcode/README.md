@@ -1,4 +1,4 @@
-# Leetcode
+# Leetcode (Easy, Medium, Hard)
 
 ### Section 1
 29 questions
