@@ -1,18 +1,18 @@
 # Algorithms
 Top 67 leetcode (easy, meduim and hard) questions to pass multiple technical interviews with top tech companies (college edition) with real questions from apple, microsoft, twitter, fb...
-- [x] CCTI
+- [x] BFS/DFS
+- [x] CTCI
+- [x] Cyclic Sort
+- [x] Fast and Slow Pointers
+- [x] In-place memory
 - [x] Leetcode Easy
 - [x] Leetcode Medium
 - [x] Leetcode Hard
-- [x] Sliding Window
-- [x] Two Pointers/Iterators
-- [x] Fast and Slow Pointers
 - [x] Merge Intervals
-- [x] Cyclic Sort
-- [x] In-place memory
-- [x] BFS/DFS
+- [x] Sliding Window
 - [x] Top K Elements
 - [x] Topological Sort
+- [x] Two Pointers/Iterators
 - [ ] Gallo24 Sort
 
 ## Minimum amount of leetcode questions to get you into paradise 🌴🍹
