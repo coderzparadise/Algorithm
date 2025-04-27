@@ -38,3 +38,11 @@ def remove_duplicates(nums):
 # Q3:
 #input:
 #output:
+
+if __name__ == "__main__":
+    print('start program\n')
+
+    v1 = [37, 88, 100, 77, 77, 23, 100, 37, 88]
+    print( single_nums(v1) )
+    
+    print('end')
