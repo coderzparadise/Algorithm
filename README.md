@@ -15,4 +15,4 @@ Top 67 leetcode (easy, meduim and hard) questions to pass multiple technical int
 - [x] Two Pointers/Iterators
 - [ ] Gallo24 Sort
 
-## Minimum amount of leetcode questions to get you into paradise 🌴🍹
+## Minimum amount of leetcode questions to get you into Paradise 🌴🍹
