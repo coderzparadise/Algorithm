@@ -7,4 +7,4 @@ solved questions with solutions - [link here](https://github.com/coderzparadise/
 3 sections - [link here](https://github.com/coderzparadise/Algorithm/tree/main/Leetcode/questions)
 
 ### Practice
-Area to code after forking/cloning repo
+Folder allocating area to code and practice daily, after forking/cloning repo
