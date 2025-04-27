@@ -1,5 +1,5 @@
 # Algorithms
-Top 67 leetcode (easy, meduim and hard) questions to pass multiple technical interviews with top tech companies (college edition) with real questions from apple, microsoft, twitter, fb...
+Top 73 leetcode (easy, meduim and hard) questions to pass multiple technical interviews with top tech companies (college edition) with real questions from apple, microsoft, twitter, fb...
 - [x] BFS/DFS
 - [x] CTCI
 - [x] Cyclic Sort
