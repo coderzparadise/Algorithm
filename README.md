@@ -4,10 +4,9 @@ Top 67 leetcode (easy, meduim and hard) questions to pass multiple technical int
 - [x] CTCI
 - [x] Cyclic Sort
 - [x] Fast and Slow Pointers
-- [x] HackerRank (Easy, Medium)
-- [ ] HackerRank (Medium, Hard)
+- [x] HackerRank (easy, lacks medium & hard)
 - [x] In-place memory
-- [x] Leetcode (Easy, Medium, Hard)
+- [x] Leetcode (easy, medium, hard)
 - [x] Merge Intervals
 - [x] Sliding Window
 - [x] Top K Elements
