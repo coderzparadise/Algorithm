@@ -5,7 +5,7 @@ Top 73 solved questions with solutions to pass technical interview - [link here]
 
 ### Questions
 3 sections - [link here](https://github.com/coderzparadise/Algorithm/tree/main/Leetcode/questions)\
-All 3 section questions in 1 file - [link here](https://github.com/coderzparadise/Algorithm/blob/main/ALL_LEETCODE_QUESTIONS)
+all questions - [link here](https://github.com/coderzparadise/Algorithm/blob/main/ALL_LEETCODE_QUESTIONS)
 
 ### Practice
 Folder allocating space to user for coding and practice daily (after forking/cloning repo) - [link here](https://github.com/coderzparadise/Algorithm)
