@@ -20,6 +20,7 @@ Topics:
 
 
 ### Instructions
-clone/fork [repo](https://github.com/coderzparadise/Algorithm.git) to begin; practice daily until all questions are complete
+1. clone/fork [repo](https://github.com/coderzparadise/Algorithm.git) to begin;
+2. practice daily until all questions are complete
 
 ## Minimum amount of leetcode questions to get you into Paradise 🌴🍹
