@@ -17,7 +17,7 @@ Topics:
 - [x] Topological Sort
 - [x] Two Pointers
 
-## Minimum amount of leetcode questions to get you into Paradise 🌴🍹💻
+## Minimum amount of leetcode questions to get you into Paradise 🌴🍹
 
 ### Instructions
 1. clone/fork [repo](https://github.com/coderzparadise/Algorithm.git) to begin;
