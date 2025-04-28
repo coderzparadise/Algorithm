@@ -14,7 +14,6 @@ Topics:
 - [x] Top K Elements
 - [x] Topological Sort
 - [x] Two Pointers/Iterators
-- [ ] Gallo24 Sort
 
 
 ### Instructions
