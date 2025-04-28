@@ -1,4 +1,4 @@
-# Algorithms
+## Minimum amount of leetcode questions to get you into Paradise 🌴🍹
 
 Top 73 leetcode (easy, meduim and hard) [questions](https://github.com/coderzparadise/Algorithm/tree/main/Leetcode/code) to pass multiple technical interviews with top tech companies (college edition) with real questions from apple, microsoft, twitter, fb...
 
@@ -23,4 +23,4 @@ Topics:
 1. clone/fork [repo](https://github.com/coderzparadise/Algorithm.git) to begin;
 2. practice daily until all questions are complete
 
-## Minimum amount of leetcode questions to get you into Paradise 🌴🍹
+
