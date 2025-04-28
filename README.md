@@ -1,6 +1,6 @@
 # Algorithms
 
-Top 73 leetcode (easy, meduim and hard) questions to pass multiple technical interviews with top tech companies (college edition) with real questions from apple, microsoft, twitter, fb...
+Top 73 leetcode (easy, meduim and hard) [questions](https://github.com/coderzparadise/Algorithm/tree/main/Leetcode/code) to pass multiple technical interviews with top tech companies (college edition) with real questions from apple, microsoft, twitter, fb...
 
 Topics:
 - [x] BFS/DFS
@@ -15,6 +15,7 @@ Topics:
 - [x] Topological Sort
 - [x] Two Pointers/Iterators
 - [ ] Gallo24 Sort
+
 
 ### Instructions
 clone/fork [repo](https://github.com/coderzparadise/Algorithm.git) and begin to practice daily until all questions are complete
