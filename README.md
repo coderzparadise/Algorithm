@@ -1,5 +1,5 @@
 # Algorithm
-Top 73 leetcode (easy, meduim and hard) [questions](https://github.com/coderzparadise/Algorithm/blob/main/ALL_QUESTIONS) & [code](https://github.com/coderzparadise/Algorithm/tree/main/Leetcode/code) to pass multiple technical interviews with top tech companies (college edition) with real questions from apple, microsoft, twitter, fb...
+Top 73 leetcode (easy, meduim and hard) [questions](https://github.com/coderzparadise/Algorithm/blob/main/ALL_QUESTIONS) & [code](https://github.com/coderzparadise/Algorithm/tree/main/Leetcode/code) to pass multiple technical interviews with top tech companies (college edition) with real questions from microsoft, twitter, fb...
 
 Topics:
 - [x] Backtracking
