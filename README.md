@@ -1,4 +1,4 @@
-### Instructions
+### Instructions 🇺🇸
 1. clone/fork [repo](https://github.com/coderzparadise/Algorithm.git) to get started
 2. begin by practicing daily until all questions are complete
 
