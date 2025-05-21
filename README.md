@@ -1,6 +1,6 @@
 ### Instructions 🇺🇸
 1. clone/fork [repo](https://github.com/coderzparadise/Algorithm.git) to get started
-2. begin by practicing daily. Complete 1 new function each day and all previous fuctions [follow repo template] until all 200 questions/functions are complete (must be able to code and explain any function within 7 minutes tops).
+2. begin by practicing daily. Complete 1 new function each day and all previous fuctions [follow repo template] until all questions/functions are complete (must be able to code and explain any function within 7 minutes tops).
 
 # Algorithm
 Top 73 leetcode (easy, meduim and hard) [questions](https://github.com/coderzparadise/Algorithm/blob/main/ALL_QUESTIONS) & [code](https://github.com/coderzparadise/Algorithm/tree/main/Leetcode/code) to pass multiple technical interviews with top tech companies (college edition) with real questions from microsoft, twitter, fb...
@@ -28,7 +28,7 @@ Topics:
 
 ### Como empezar (instrucciones en espanol) 🇲🇽 🇪🇸
 1. clona/fork de [repo](https://github.com/coderzparadise/Algorithm.git) para empezar
-2. comienza practicando diariamente. Completa 1 nueva función cada día y todas las funciones anteriores [sigue la plantilla del repositorio] hasta que se completen las 200 funciones/preguntas (debes ser capaz de programar y explicar cualquier función en un máximo de 7 minutos).
+2. comienza practicando diariamente. Completa 1 nueva función cada día y todas las funciones anteriores [sigue la plantilla del repositorio] hasta que se completen todas funciones/preguntas (debes ser capaz de programar y explicar cualquier función en un máximo de 7 minutos).
     
 # Algoritmo
 Top 73 preguntas de leetcode (fáciles, medias y difíciles) preguntas & código para superar múltiples entrevistas técnicas con las principales empresas tecnológicas (edición universidad) con preguntas reales de Microsoft, Twitter, Facebook...
