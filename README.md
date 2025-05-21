@@ -56,7 +56,7 @@ Temas:
 
 ### Como começar (instruções en portugues) 🇧🇷 🇵🇹
 1. clone/fork de [repo](https://github.com/coderzparadise/Algorithm.git) para começar
-2. comece praticando diariamente. complete 1 nova função a cada dia e todas as funções anteriores [siga o modelo do repositório] até que todas funções/perguntas estejam completas
+2. comece praticando diariamente. Completa 1 nova função a cada dia e todas as funções anteriores [siga o modelo do repositório] até que todas funções/perguntas estejam completas
 
 # Algoritmo
 Top 73 questões de leetcode (fáceis, médias e difíceis) questões & código para passar em múltiplas entrevistas técnicas com as principais empresas de tecnologia (edição universitária) com perguntas reais da Microsoft, Twitter, Facebook...
