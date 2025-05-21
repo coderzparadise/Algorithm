@@ -1,6 +1,6 @@
 ### Instructions 🇺🇸
 1. clone/fork [repo](https://github.com/coderzparadise/Algorithm.git) to get started
-2. begin by practicing daily. Complete 1 new function each day and all previous fuctions [follow repo template] until all 200 questions/functions are complete (must be able to code and explain any data structure or function within 7 minutes tops).
+2. begin by practicing daily. Complete 1 new function each day and all previous fuctions [follow repo template] until all 200 questions/functions are complete (must be able to code and explain any function within 7 minutes tops).
 
 # Algorithm
 Top 73 leetcode (easy, meduim and hard) [questions](https://github.com/coderzparadise/Algorithm/blob/main/ALL_QUESTIONS) & [code](https://github.com/coderzparadise/Algorithm/tree/main/Leetcode/code) to pass multiple technical interviews with top tech companies (college edition) with real questions from microsoft, twitter, fb...
