@@ -55,6 +55,10 @@ Temas:
 
 ### Minima cantidad de preguntas de leetcode para ayudarte Programar en Paraíso 🌴🍹
 
+#### Repositório 
+- 1. [Portal](https://github.com/coderzparadise)
+- 2. [DataStructure](https://github.com/coderzparadise/DataStructure)
+- 3. [Algorithm](https://github.com/coderzparadise/Algorithm)
 ---
 ---
 
@@ -82,3 +86,8 @@ Tópicos:
 - [x] Two Pointers (Dois Ponteiros)
 
 ### Quantidade mínima de questões de leetcode para te levar ao Paraíso 🌴🍹
+
+#### Repositorio 
+- 1. [Pagina principa](https://github.com/coderzparadise)
+- 2. [Estructura Datos](https://github.com/coderzparadise/DataStructure)
+- 3. [Algoritmo](https://github.com/coderzparadise/Algorithm)
