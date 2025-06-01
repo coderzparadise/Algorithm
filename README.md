@@ -34,7 +34,7 @@ Topics:
 1. clona/fork de [repo](https://github.com/coderzparadise/Algorithm.git) para empezar
 2. comienza practicando diariamente. Completa 1 nueva función cada día y todas las funciones anteriores [sigue la plantilla del repositorio] hasta que se completen todas funciones/preguntas (debes ser capaz de programar y explicar cualquier función en un máximo de 7 minutos).
     
-# Algoritm
+# Algorithm
 Top 73 preguntas de leetcode (fáciles, medias y difíciles) preguntas & código para superar múltiples entrevistas técnicas con las principales empresas tecnológicas (edición universidad) con preguntas reales de Microsoft, Twitter, Facebook...
 
 Temas:
